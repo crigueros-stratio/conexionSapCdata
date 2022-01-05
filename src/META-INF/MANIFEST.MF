@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.stratio.ip.Main
+Class-Path: ../lib/cdata.jdbc.saperp.jar ../lib/sapjco3.jar
+

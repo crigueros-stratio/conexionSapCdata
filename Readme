@@ -1,0 +1,8 @@
+https://cdn.cdata.com/help/RYG/jdbc/pg_JDBCconnectcode.htm
+
+https://programmerclick.com/article/88581493737/
+
+ubicar archivo /home/crigueros/Documentos/conexionSapCdata/lib/libsapjco3.so en la ruta /usr/java/packages/lib para linux
+o
+agregar una variable de entorno llamada LD_LIBRARY_PATH en el archivo /etc/profile
+ejemplo: export LD_LIBRARY_PATH=$JAVA_HOME/jre/lib/amd64/server
